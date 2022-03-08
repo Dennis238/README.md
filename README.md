@@ -4,7 +4,5 @@
 - 💞️ I’m looking to collaborate on a cutting-edge project-
 - 📫 How to reach me: dennis.238@hotmail.com
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dennis238)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dennis238&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
