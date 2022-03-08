@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @Dennis238
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Dennis
+- 👀 I’m interested in Web Develoment
+- 🌱 I’m currently improving at JavaScript
+- 💞️ I’m looking to collaborate on a cutting-edge project-
+- 📫 How to reach me: dennis.238@hotmail.com
 
-<!---
-Dennis238/Dennis238 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dennis238)](https://github.com/anuraghazra/github-readme-stats)
+
